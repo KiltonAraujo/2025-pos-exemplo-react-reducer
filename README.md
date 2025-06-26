@@ -5,6 +5,7 @@
 - **Objetivo**: Gerenciar (inicializar, atualizar, apagar, etc) estado (_state_) complexo em aplicações React
 - **Público alvo**: alunos da disciplina de POS (Programação Orientada a Serviços) do curso de Infoweb (Técnico Integrado em Informática para Internet) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
+- **Aluno**: [Kilton j Araujo](https://github.com/KiltoAraujo/)
 
 ---
 ## Sumário
